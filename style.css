@@ -35,6 +35,10 @@ body {
 
 .container .phrase {
     font-size: 1.7rem;
+    display: block;
+    width: 100%;
+    margin: .3rem 0;
+    text-align: center;
 }
 
 .btn {
